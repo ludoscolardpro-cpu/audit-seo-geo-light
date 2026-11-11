@@ -74,6 +74,11 @@ Voir le fichier `CITATION.cff` : Scolard, L. (2026). Audit SEO GEO light, skill 
 
 Avec un outil de mesure SEO tiers, l'accès en lecture à la Search Console, à GA4 et à la fiche Google, une version complète du skill chiffre les sections marquées [ACCÈS REQUIS] et peut aller jusqu'à l'application des correctifs. Voir [ANNEXE-version-complete.md](ANNEXE-version-complete.md).
 
+## Tester la méthode en ligne
+
+- **Test express gratuit** : saisissez une URL et obtenez un premier diagnostic SEO et GEO sans installer quoi que ce soit : [audit.sell-expert.fr](https://audit.sell-expert.fr/?utm_source=github&utm_medium=referral&utm_campaign=readme-skill)
+- **Guides SEO et GEO pour PME** : les articles qui détaillent la méthode : [sell-expert.fr/guides-seo-geo](https://sell-expert.fr/guides-seo-geo/?utm_source=github&utm_medium=referral&utm_campaign=readme-skill)
+
 ## Limites
 
 Ce skill est une **méthode**, pas une garantie de résultat. Les objectifs chiffrés sont des cibles de pilotage. Les fonctionnalités des moteurs de recherche et des assistants IA évoluent vite : vérifier les points sensibles sur la documentation officielle avant d'affirmer quoi que ce soit à un client.
